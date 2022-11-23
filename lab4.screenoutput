@@ -1,0 +1,373 @@
+Reading inventory from file "store_inventory"
+A total of 16 grocery items were read in to inventory from the file "store_inventory"
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option:  1
+Total revenue: $896.33
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option:  2
+Total wholesale cost: $1,645.22
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option:  3
+Total wholesale Investment: $1,158.95
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option:  4
+Total profit: $410.06
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option:  5
+Total number of grocery items sold:  417
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option:  6
+Average Profit: $0.98
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option:  7
+Grocery items in Stock:
+
+Stock#	      Quantity		Department		Item
+780		 23		Frozen Foods        	Ore-Ida Frozen Potatoes
+962		 29		Dairy               	Horizon Organic Milk - 64 fl oz
+1050		183		Dairy               	Pillsbury Cinnamon Rolls
+1051		 88		Dairy               	Philadelphia Cream Cheese Brick
+1399		 28		Refrigerated Items  	Minute Maid Fruit Drinks - Orange
+1850		 44		Snacks              	Tostito Chips - Original
+1851		 34		Snacks              	Cheez-it
+2120		 88		Canned Goods        	Bush's Seasoned Black Beans
+2150		148		Canned Goods        	Campbell's Condensed Soup - Tomato
+2151		148		Canned Goods        	Campbell's Condensed Soup - Noodle
+2152		154		Canned Goods        	Campbell's Condensed Soup - Veg Beef
+2153		159		Canned Goods        	Campbell's Condensed Soup - Crm Mush
+2252		 26		Dry Goods           	Plochman Yellow Mustard
+3232		 28		Dry Goods           	Minute Instant Rice
+4001		 19		Refrigerated Items  	Vlasic Dill Pickles
+
+
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option:  8
+Enter Department Name to print:  ood
+Grocery Item List for ood:
+
+Stock#	      Quantity		Department		Item
+550		  0		Frozen Foods        	Ben & Jerry's Pints - Half Baked
+780		 23		Frozen Foods        	Ore-Ida Frozen Potatoes
+2120		 88		Canned Goods        	Bush's Seasoned Black Beans
+2150		148		Canned Goods        	Campbell's Condensed Soup - Tomato
+2151		148		Canned Goods        	Campbell's Condensed Soup - Noodle
+2152		154		Canned Goods        	Campbell's Condensed Soup - Veg Beef
+2153		159		Canned Goods        	Campbell's Condensed Soup - Crm Mush
+2252		 26		Dry Goods           	Plochman Yellow Mustard
+3232		 28		Dry Goods           	Minute Instant Rice
+
+
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option:  10
+Enter  grocery item name:  Chobani FOB Greek Yogurt
+Enter Department:  Dairy
+Enter item stock number:  420
+Enter item wholesale price:  .45
+Enter item retail price:  .99
+Enter item wholesale quantity:  36
+Enter item retail quantity: 4  
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option:  7
+
+Grocery items in Stock:
+
+Stock#	      Quantity		Department		Item
+420		 32		Dairy               	Chobani FOB Greek Yogurt
+780		 23		Frozen Foods        	Ore-Ida Frozen Potatoes
+962		 29		Dairy               	Horizon Organic Milk - 64 fl oz
+1050		183		Dairy               	Pillsbury Cinnamon Rolls
+1051		 88		Dairy               	Philadelphia Cream Cheese Brick
+1399		 28		Refrigerated Items  	Minute Maid Fruit Drinks - Orange
+1850		 44		Snacks              	Tostito Chips - Original
+1851		 34		Snacks              	Cheez-it
+2120		 88		Canned Goods        	Bush's Seasoned Black Beans
+2150		148		Canned Goods        	Campbell's Condensed Soup - Tomato
+2151		148		Canned Goods        	Campbell's Condensed Soup - Noodle
+2152		154		Canned Goods        	Campbell's Condensed Soup - Veg Beef
+2153		159		Canned Goods        	Campbell's Condensed Soup - Crm Mush
+2252		 26		Dry Goods           	Plochman Yellow Mustard
+3232		 28		Dry Goods           	Minute Instant Rice
+4001		 19		Refrigerated Items  	Vlasic Dill Pickles
+
+
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option:  8
+
+Grocery Items Out of Stock: 
+
+Stock#	      Quantity		Department		Item
+550		  0		Frozen Foods        	Ben & Jerry's Pints - Half Baked
+
+
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option:  11
+Please enter the grocery item stock number you wish to delete, followed by enter.
+550
+
+Grocery item  stock number 550 was deleted.
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option:  8
+
+Grocery Items Out of Stock: 
+
+Stock#	      Quantity		Department		Item
+	There are currently no Out of Stock Grocery Items
+
+
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option: 11 
+Please enter the grocery item stock number you wish to delete, followed by enter.
+420
+
+Grocery item  stock number 420 was deleted.
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option:  7
+
+Grocery items in Stock:
+
+Stock#	      Quantity		Department		Item
+780		 23		Frozen Foods        	Ore-Ida Frozen Potatoes
+962		 29		Dairy               	Horizon Organic Milk - 64 fl oz
+1050		183		Dairy               	Pillsbury Cinnamon Rolls
+1051		 88		Dairy               	Philadelphia Cream Cheese Brick
+1399		 28		Refrigerated Items  	Minute Maid Fruit Drinks - Orange
+1850		 44		Snacks              	Tostito Chips - Original
+1851		 34		Snacks              	Cheez-it
+2120		 88		Canned Goods        	Bush's Seasoned Black Beans
+2150		148		Canned Goods        	Campbell's Condensed Soup - Tomato
+2151		148		Canned Goods        	Campbell's Condensed Soup - Noodle
+2152		154		Canned Goods        	Campbell's Condensed Soup - Veg Beef
+2153		159		Canned Goods        	Campbell's Condensed Soup - Crm Mush
+2252		 26		Dry Goods           	Plochman Yellow Mustard
+3232		 28		Dry Goods           	Minute Instant Rice
+4001		 19		Refrigerated Items  	Vlasic Dill Pickles
+
+
+
+Please enter an integer between 1 and 12:
+1)  Print Total Revenue
+2)  Print Total WholeSale Cost
+3)  Print Current Grocery Item Investment
+4)  Print Current Profit
+5)  Print Total Number of Grocery Items Sold
+6)  Print Average Profit per Grocery Item
+7)  Print Grocery Items In Stock
+8)  Print Out of Stock Grocery Items
+9)  Print Grocery Items for a Department
+10) Add Grocery Item to Inventory
+11) Delete Grocery Item from Inventory
+12) Exit Program
+
+Option:  12
+
+A total of 15 Grocery Item records were written to file "store_inventory_next"
